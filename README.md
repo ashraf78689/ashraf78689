@@ -1,46 +1,55 @@
-<h1 align="center">Hi 👋, I'm Ashraf</h1>
-<h3 align="center">🚀 Full Stack Developer | Flutter Developer | AI Enthusiast | Data Analytics Learner</h3>
+<h1 align="center">Hi 👋, I'm Mohammed Ashraf</h1>
+
+<h3 align="center">
+🚀 Full Stack Developer | Flutter Developer | AI Enthusiast | Data Analytics Learner
+</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;Flutter+Developer;AI+Enthusiast;Data+Analytics+Learner;Always+Learning+New+Things..." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;Flutter+Developer;AI+Enthusiast;Data+Analytics+Learner;Always+Learning+New+Things..." />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ashraf78689&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
 
 ## 💫 About Me
 
-🎓 Fourth-Year Artificial intelligence and data science  Student
+🎓 Fourth-Year Artificial intelligence and data science Student
 
-💻 Passionate about Full Stack Development, Flutter, Artificial Intelligence, Cloud Computing and Data Science.
+💻 Passionate about building scalable applications using Flutter, MERN Stack, AI, Cloud Computing and Data Analytics.
 
 🌱 Currently Learning
 
 - Machine Learning
 - Deep Learning
 - Advanced Flutter
-- Cloud Technologies
+- Cloud Computing
 - Data Analytics
 
 🎯 Goal
 
-Become a Data Scientist and AI Engineer while building impactful real-world applications.
+Become a Data Scientist & AI Engineer while building impactful real-world applications.
 
 ---
 
 ## 🌐 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+
+<a href="https://github.com/ashraf78689">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mohammed-ashraf-m-a-805817336">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:ashrafaadr@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
 </p>
 
 ---
@@ -83,43 +92,22 @@ Become a Data Scientist and AI Engineer while building impactful real-world appl
 <img src="https://skillicons.dev/icons?i=aws,azure,docker,terraform,git,github,vscode"/>
 </p>
 
-### Data Science
-
-<p>
-<img src="https://skillicons.dev/icons?i=python"/>
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=python&logoColor=black"/>
-</p>
-
 ---
 
 # 🚀 Featured Projects
 
 ### 🎯 AI Career Navigator
 
-✔ Resume Analyzer
-
-✔ Career Recommendation
-
-✔ AI Chat Assistant
-
-✔ Student Dashboard
-
-✔ Admin Dashboard
-
-✔ Authentication
-
-✔ AI Skill Assessment
+- AI Career Recommendation
+- Resume Analyzer
+- Resume Builder
+- AI Skill Assessment
+- Student Dashboard
+- Admin Dashboard
 
 ---
 
-### 📱 Flutter Applications
+### 📱 Flutter Projects
 
 Cross-platform mobile applications built with Flutter & Firebase.
 
@@ -127,13 +115,10 @@ Cross-platform mobile applications built with Flutter & Firebase.
 
 ### 📊 Data Analytics Projects
 
-Data Cleaning
-
-Data Visualization
-
-Exploratory Data Analysis
-
-Python Automation
+- Data Cleaning
+- Data Visualization
+- Exploratory Data Analysis
+- Python Automation
 
 ---
 
@@ -141,7 +126,7 @@ Python Automation
 
 🏆 NPTEL
 
-🏆 Infosys Springboard - Generative AI
+🏆 Infosys Springboard – Generative AI
 
 🏆 Cloud & AI Full Stack Internship
 
@@ -151,9 +136,9 @@ Python Automation
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ashraf78689&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashraf78689&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -163,7 +148,7 @@ Python Automation
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ashraf78689&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -173,7 +158,7 @@ Python Automation
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&margin-w=10&margin-h=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ashraf78689&theme=algolia&no-frame=true&row=1&column=7"/>
 
 </p>
 
@@ -183,7 +168,7 @@ Python Automation
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashraf78689&theme=tokyo-night"/>
 
 </p>
 
@@ -191,9 +176,11 @@ Python Automation
 
 # 🐍 Contribution Snake
 
+> Enable GitHub Actions first, then this animation will work.
+
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/ashraf78689/ashraf78689/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
@@ -201,18 +188,10 @@ Python Automation
 
 ## 💡 Quote
 
-> "Code. Learn. Build. Repeat."
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</p>
+> **"Dream. Code. Build. Repeat."**
 
 ---
 
 <h3 align="center">
-⭐ If you like my work, don't forget to Star my repositories!
+⭐ Thanks for visiting my profile! ⭐
 </h3>
