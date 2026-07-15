@@ -9,7 +9,7 @@
 
 ## 💫 About Me
 
-🎓 Third-Year Computer Science Engineering Student
+🎓 Fourth-Year Artificial intelligence and Data science Student
 
 💻 Passionate about Full Stack Development, Flutter, Artificial Intelligence, Cloud Computing and Data Science.
 
